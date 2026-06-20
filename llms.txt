@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aliento-de-primavera/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Aliento de primavera, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aliento-de-primavera/) |
+| **Get License** | [Official Music Licensing for Aliento de primavera, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aliento-de-primavera/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3870)
 
 ---
 
