@@ -1,4 +1,4 @@
-# Aliento de primavera
+# Aliento de primavera, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Aliento de primavera |
+| **Title** | Aliento de primavera, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aliento-de-primavera/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Aliento de primavera](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aliento-de-primavera/) |
+| **Get License** | [Get License For Aliento de primavera, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aliento-de-primavera/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Siento el calor que de tu cuerpo se escapa
+> La noche en la disco se pone buena y te atrapa
+> Dame de ese fuego que me quita la razón
+> Un aliento de primavera pa' mi corazón
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `fa8ca6db26dff00ad1877af2a22ffb69adc89906272a409d290ffbe4d0d29544` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 

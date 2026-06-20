@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aliento de primavera, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Aliento de primavera, Vol. 2** (aliento-de-primavera-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T01:44:26.284711 | `v1` | `fa8ca6db26dff00ad1877af2a22ffb69adc89906272a409d290ffbe4d0d29544` | `4a05be4a3f7a77671b1f844c047fbfb8abc3fdc3859b2123f2aee902e83af27f` | `2026-06-21_aliento-de-primavera-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
